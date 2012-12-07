@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, StatusUpdateActivity!</string>
+    <string name="app_name">StatusUpdate</string>
+    <string name="titleStatusUpdate">Status Update</string>
+    <string name="HintStatuseditbox">Enter Status here in 160 chars</string>
+    <string name="buttontext">Update</string>
+</resources>
