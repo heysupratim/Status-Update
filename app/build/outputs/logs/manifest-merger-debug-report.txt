@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:3:2-28
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:3:53-78
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:3:29-52
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:7:2-21:16
+	android:label
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:7:45-77
+	android:debuggable
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:7:78-103
+	android:icon
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:7:15-44
+activity#techturning.devs.StatusUpdateActivity
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:8:3-19:14
+	android:label
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:8:50-82
+	android:theme
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:8:83-130
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:8:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:11:15-62
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tt-StatUpdate
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:13:4-18:20
+action#android.intent.action.VIEW
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:14:5-57
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:14:13-54
+category#android.intent.category.DEFAULT
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:15:5-64
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:15:15-61
+category#android.intent.category.BROWSABLE
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:16:15-63
+data
+ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:17:5-44
+	android:scheme
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml:17:11-41
+uses-sdk
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		ADDED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/borax12/Devwork/android/Status-Update/app/src/main/AndroidManifest.xml
